@@ -64,19 +64,26 @@ Inter-VLAN Routing: Configured on the Main Router to allow communication between
 
 Static Routing: Default routes configured on Firewalls and Routers to direct traffic to the ISP.
 
+
+
+
 🔑 Access Credentials
 
 (For testing purposes only)
 
 Enable Secret / Privileged Exec: senira
 
-Console Password: cisco
+Console Password: cisco12345
 
-VTY / Telnet Password: cisco
+VTY / Telnet Password: cisco12345
 
 VPN Pre-Shared Key: seniraVPN
 
 WiFi Password (SSID: Accounting-WiFi): seniraWiFi
+
+
+
+
 
 🧪 How to Test the Network
 
