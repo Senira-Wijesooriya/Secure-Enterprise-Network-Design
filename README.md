@@ -71,11 +71,11 @@ Static Routing: Default routes configured on Firewalls and Routers to direct tra
 
 (For testing purposes only)
 
-Enable Secret / Privileged Exec: senira
+Enable Secret / Privileged Exec: Coventry@123
 
-Console Password: cisco12345
+Console Password: Coventry@123
 
-VTY / Telnet Password: cisco12345
+VTY / Telnet Password: Coventry@123
 
 VPN Pre-Shared Key: seniraVPN
 
