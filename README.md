@@ -1,6 +1,6 @@
 🔒 Secure Multi-Branch Enterprise Network Design
 
-use this FILE = COHNDNE242F-012_Network_Project v6.0 final.pkt
+use this FILE = Network_Project v6.0 final.pkt
 
 Module: Network Security / Network Engineering
 
