@@ -1,6 +1,6 @@
 🔒 Secure Multi-Branch Enterprise Network Design
 
-use this FILE = Network_Project v6.0 final.pkt
+use this FILE = Network_Project v10.0 final 85.3BV.pkt & topology(1)
 
 Module: Network Security / Network Engineering
 
@@ -79,7 +79,7 @@ VTY / Telnet Password: Coventry@123
 
 VPN Pre-Shared Key: seniraVPN
 
-WiFi Password (SSID: Accounting-WiFi): seniraWiFi
+WiFi Password (SSID: Accounting-WiFi): @WIFI123
 
 
 
